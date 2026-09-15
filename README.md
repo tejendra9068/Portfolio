@@ -66,11 +66,11 @@ git init
 git add .
 git commit -m "Initial commit: Pure HTML5 & CSS3 Data Science & AI Portfolio"
 git branch -M main
-git remote add origin https://github.com/tejendra9068/portfolio.git
+git remote add origin https://github.com/tejendra9068/Portfolio.git
 git push -u origin main
 ```
 
-*(Replace `tejendra9068/portfolio.git` with your actual repository URL)*
+*(Replace `tejendra9068/Portfolio.git` with your actual repository URL)*
 
 ### Step 3: Enable GitHub Pages
 1. On GitHub, navigate to your repository **Settings** tab.
@@ -83,7 +83,7 @@ git push -u origin main
 - Wait 1-2 minutes for GitHub Actions to complete the deployment.
 - Your website will be live at:
   ```
-  https://tejendra9068.github.io/portfolio/
+  https://tejendra9068.github.io/Portfolio/
   ```
 
 ---
